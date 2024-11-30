@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "DCDCv2-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DCDCv2-altium-import.kicad_sym")(options "")(descr ""))
+)
