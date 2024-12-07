@@ -281,822 +281,6 @@
 				)
 			)
 		)
-		(symbol "DCDCv2-altium-import:12_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "12"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '12'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "12_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:13_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "13"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '13'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "13_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:19_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "19"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '19'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "19_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:26_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "26"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '26'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "26_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:28_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "28"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '28'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "28_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:31_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "31"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '31'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "31_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:7_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "7"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '7'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "7_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:9_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "9"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '9'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "9_BAR_0_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "DCDCv2-altium-import:root_0_L1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -13361,6 +12545,102 @@
 				)
 			)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 	)
 	(junction
 		(at 800.1 74.93)
@@ -13427,12 +12707,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e12106c-8802-4a85-bcae-297699201adf")
-	)
-	(junction
-		(at 792.48 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34cda4a2-98d1-4ea3-884b-21544d495412")
 	)
 	(junction
 		(at 819.15 59.69)
@@ -13603,6 +12877,12 @@
 		(uuid "8876fa70-ab3c-4895-ad56-dfc2fedda643")
 	)
 	(junction
+		(at 369.57 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "899d740b-7e6c-4ba9-9be1-d6994f3ba93e")
+	)
+	(junction
 		(at 502.92 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13633,22 +12913,16 @@
 		(uuid "9193cf1e-5737-4d18-9bfd-08c81ed46464")
 	)
 	(junction
-		(at 929.64 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "97e48911-1f38-4540-8a60-1bb9d7b80daf")
-	)
-	(junction
 		(at 471.17 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ab259c6-1488-48db-8430-9ff2db34410d")
 	)
 	(junction
-		(at 471.17 144.78)
+		(at 328.93 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a252f79d-207c-4a2b-813f-52174511d9bc")
+		(uuid "a400ae16-dd7d-48f1-9783-0641ffc65888")
 	)
 	(junction
 		(at 679.45 105.41)
@@ -13675,6 +12949,12 @@
 		(uuid "a7a111c4-b3f7-4d5b-b0d4-911b79d4685d")
 	)
 	(junction
+		(at 369.57 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbad6ad1-ba62-4ed1-820d-c0dac33c749c")
+	)
+	(junction
 		(at 205.74 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13685,6 +12965,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbe9b8be-232d-4fb9-a2a7-a6548980a406")
+	)
+	(junction
+		(at 369.57 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be80cfd8-06be-4377-a4a9-a9f1854fc503")
+	)
+	(junction
+		(at 369.57 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c176c4ec-1a2d-4bad-a6f1-f6b486ec97e2")
 	)
 	(junction
 		(at 179.07 326.39)
@@ -13711,10 +13003,22 @@
 		(uuid "c939ba9a-6ec2-457e-8406-c6c013bf7df9")
 	)
 	(junction
+		(at 369.57 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc723863-7469-4039-aa72-c1e270136996")
+	)
+	(junction
 		(at 205.74 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf10ff77-8f06-45f1-86b6-a06416d94aa6")
+	)
+	(junction
+		(at 369.57 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d007c4f6-5e5a-46ef-a8ab-6af8ac1ec544")
 	)
 	(junction
 		(at 726.44 105.41)
@@ -13867,6 +13171,12 @@
 		(uuid "f0d33ff2-9a09-4649-b135-6217c59cefa4")
 	)
 	(junction
+		(at 369.57 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f29b060a-1f27-477a-869e-f05118ce97dc")
+	)
+	(junction
 		(at 502.92 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13925,16 +13235,6 @@
 			(type default)
 		)
 		(uuid "0625e96b-b64a-4947-a57e-a334eed4984c")
-	)
-	(wire
-		(pts
-			(xy 471.17 144.78) (xy 486.41 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07256065-4662-454f-9b51-7e0bf07deac7")
 	)
 	(wire
 		(pts
@@ -14125,16 +13425,6 @@
 			(type default)
 		)
 		(uuid "1dcd2779-2d5b-4fdd-9ec0-7dbf1c024f0d")
-	)
-	(wire
-		(pts
-			(xy 929.64 27.94) (xy 957.58 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ddf1c93-5259-47d6-9808-47492036673a")
 	)
 	(wire
 		(pts
@@ -14458,7 +13748,7 @@
 	)
 	(wire
 		(pts
-			(xy 792.48 27.94) (xy 800.1 27.94)
+			(xy 740.41 27.94) (xy 800.1 27.94)
 		)
 		(stroke
 			(width 0)
@@ -14638,7 +13928,7 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 246.38) (xy 377.19 250.19)
+			(xy 377.19 246.38) (xy 377.19 248.92)
 		)
 		(stroke
 			(width 0)
@@ -15398,7 +14688,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 250.19) (xy 377.19 250.19)
+			(xy 384.81 248.92) (xy 377.19 248.92)
 		)
 		(stroke
 			(width 0)
@@ -15495,16 +14785,6 @@
 			(type default)
 		)
 		(uuid "b1897a43-946a-4854-b0d2-4a46523cdd68")
-	)
-	(wire
-		(pts
-			(xy 740.41 27.94) (xy 792.48 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2ae00db-6980-4060-a6ec-5bc17f232eb9")
 	)
 	(wire
 		(pts
@@ -15818,7 +15098,7 @@
 	)
 	(wire
 		(pts
-			(xy 920.75 27.94) (xy 929.64 27.94)
+			(xy 920.75 27.94) (xy 957.58 27.94)
 		)
 		(stroke
 			(width 0)
@@ -16165,6 +15445,182 @@
 			(type default)
 		)
 		(uuid "feda624b-5c27-48b1-bea0-97061b41cd54")
+	)
+	(label "sw1"
+		(at 388.62 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "00c2411e-316b-42a7-b414-879476d1f0ac")
+	)
+	(label "csg"
+		(at 471.17 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20492d3c-b6d6-4fe2-8cf7-76b5f0e5f81b")
+	)
+	(label "rcs2"
+		(at 300.99 309.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31fcd349-7134-4273-ae32-2a91aaeff653")
+	)
+	(label "rcs2"
+		(at 486.41 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "441eaf9e-14a3-4bdb-995a-5fb06c8288b0")
+	)
+	(label "sw2"
+		(at 524.51 257.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a34fc09-072c-4877-9fa1-f7f7d9420e87")
+	)
+	(label "ldrv2"
+		(at 384.81 248.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "547b43b9-1225-44a3-b997-bc4903688335")
+	)
+	(label "ldrv1"
+		(at 492.76 210.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "59426b39-6990-4ef1-a146-2e6d288ab4e9")
+	)
+	(label "ldrv2"
+		(at 508 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6bc75ed5-b1f2-438a-abc8-387ad0180326")
+	)
+	(label "hdrv2"
+		(at 384.81 231.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "938ab1bd-4642-47c1-b3e2-e08aac8b255e")
+	)
+	(label "sw1"
+		(at 482.6 205.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0d97e8a-15d4-40b8-9c61-45b311e92178")
+	)
+	(label "csg"
+		(at 328.93 309.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7faa553-5c69-4cdc-8936-128b97bf876f")
+	)
+	(label "hdrv1"
+		(at 384.81 193.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c12d59f7-3f79-4e39-bb99-80710b1276bc")
+	)
+	(label "hdrv2"
+		(at 506.73 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7442e71-e949-4fb4-af7f-aecb1db26ad3")
+	)
+	(label "hdrv1"
+		(at 379.73 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d5972e56-5db0-4424-bace-7c76e164e94a")
+	)
+	(label "ldrv1"
+		(at 379.73 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e85966f6-e600-47dc-b5b5-d42dc860198e")
+	)
+	(label "sw2"
+		(at 591.82 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f466f178-da9a-445b-af4d-73778b3040cf")
 	)
 	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cin_3")
@@ -16522,7 +15978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 994.41 68.58 0)
 			(effects
 				(font
@@ -16531,7 +15987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/35SVPF82M"
 			(at 994.41 68.58 0)
 			(effects
 				(font
@@ -17286,7 +16742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 394.97 43.18 0)
 			(effects
 				(font
@@ -17295,7 +16751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd18513q5a"
 			(at 394.97 43.18 0)
 			(effects
 				(font
@@ -17383,71 +16839,6 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "M1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:31_BAR")
-		(at 384.81 193.04 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "113f19bd-09ca-4b29-8053-f39e0820d751")
-		(property "Reference" "#PWR?"
-			(at 384.81 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "31"
-			(at 384.81 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 384.81 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 384.81 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 384.81 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "629019bd-27a9-4cfa-9957-b01ea6f19f90")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -18116,7 +17507,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ced17f5-14e5-49d3-8929-fbdb69d219e2")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0113"
 			(at 57.15 106.68 0)
 			(effects
 				(font
@@ -18167,7 +17558,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -18310,7 +17701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 976.63 68.58 0)
 			(effects
 				(font
@@ -18319,7 +17710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/35SVPF82M"
 			(at 976.63 68.58 0)
 			(effects
 				(font
@@ -18386,71 +17777,6 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "Cout_2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:12_BAR")
-		(at 482.6 205.74 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30c0dae4-94b5-427e-bc80-a68c972adb7a")
-		(property "Reference" "#PWR?"
-			(at 482.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "12"
-			(at 482.6 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 482.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 482.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 482.6 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "deae13de-c779-4f61-a1e8-49b57a07f50c")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -18574,7 +17900,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "354c398c-f441-4dcf-9167-3147727008c3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0118"
 			(at 726.44 105.41 0)
 			(effects
 				(font
@@ -18625,7 +17951,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -18749,7 +18075,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36655692-91bd-484e-8cc1-d1c02f908957")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0117"
 			(at 179.07 326.39 0)
 			(effects
 				(font
@@ -18800,137 +18126,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:28_BAR")
-		(at 384.81 231.14 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "38b3eded-3d59-42af-b8d3-72e11cdb4596")
-		(property "Reference" "#PWR?"
-			(at 384.81 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "28"
-			(at 384.81 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 384.81 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 384.81 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 384.81 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "b5f896e9-f7ec-43c0-9de9-910606e24b6c")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:26_BAR")
-		(at 386.08 250.19 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "397ed280-fa4b-40c9-889e-91af084c08f4")
-		(property "Reference" "#PWR?"
-			(at 386.08 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "26"
-			(at 386.08 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 386.08 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 386.08 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "e8027f09-8f8b-4051-9ce9-a4a61b5a9a05")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -19345,71 +18541,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:28_BAR")
-		(at 506.73 44.45 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3dedc45c-c8c7-48ac-8584-c915c66ab6d0")
-		(property "Reference" "#PWR?"
-			(at 506.73 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "28"
-			(at 506.73 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 506.73 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 506.73 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 506.73 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "e1bfec59-d3b4-4e54-b28a-1f1bc6854fbc")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
 		(at 419.1 267.97 0)
 		(unit 1)
@@ -19418,7 +18549,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3eed10dd-a5a7-4ccb-9846-cd83318b0bd1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0111"
 			(at 419.1 267.97 0)
 			(effects
 				(font
@@ -19469,7 +18600,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -19484,7 +18615,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45ffe5e3-95f0-45b4-bb1d-f2b23781b5f6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0125"
 			(at 1024.89 106.68 0)
 			(effects
 				(font
@@ -19535,23 +18666,24 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:12_BAR")
-		(at 388.62 73.66 180)
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5cf2b6b5-2dbf-4786-8c59-703dbb5db5bc")
-		(property "Reference" "#PWR?"
-			(at 388.62 73.66 0)
+		(fields_autoplaced yes)
+		(uuid "4a4cc58b-6c93-44f2-8d2e-669dc2a9ef8a")
+		(property "Reference" "#FLG04"
+			(at 369.57 196.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19559,8 +18691,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "12"
-			(at 388.62 69.85 0)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19568,7 +18700,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 388.62 73.66 0)
+			(at 369.57 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19576,8 +18708,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 388.62 73.66 0)
+		(property "Datasheet" "~"
+			(at 369.57 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19585,8 +18717,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 388.62 73.66 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19594,13 +18726,80 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "47cf6914-f29b-483f-83ea-0980ef817b6d")
+		(pin "1"
+			(uuid "4e37e548-1323-43ad-adab-087e5422bfa9")
 		)
 		(instances
-			(project "DCDCv2"
+			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#FLG04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 177.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d6cb2a9-5a50-466d-92e1-af7e55ad8977")
+		(property "Reference" "#FLG02"
+			(at 371.475 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 373.38 177.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3075456c-7561-4daa-b29e-88c214b5d823")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -19634,7 +18833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 476.25 190.5 0)
 			(effects
 				(font
@@ -19643,7 +18842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGF.pdf"
 			(at 476.25 190.5 0)
 			(effects
 				(font
@@ -19852,7 +19051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 560.07 97.79 0)
 			(effects
 				(font
@@ -19861,7 +19060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19531q5a"
 			(at 560.07 97.79 0)
 			(effects
 				(font
@@ -20167,71 +19366,6 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:19_BAR")
-		(at 524.51 257.81 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6ff301e3-3694-431b-b586-e19ad03e606b")
-		(property "Reference" "#PWR?"
-			(at 524.51 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "19"
-			(at 524.51 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 524.51 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 524.51 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 524.51 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "abed5f24-bc88-482f-b58b-7ef24dddb440")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -20595,7 +19729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:CSD18531Q5A"
 			(at 394.97 97.79 0)
 			(effects
 				(font
@@ -20604,7 +19738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd18531q5a"
 			(at 394.97 97.79 0)
 			(effects
 				(font
@@ -20706,7 +19840,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "804fc627-89bb-4bf2-a5d1-3fd718142851")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0105"
 			(at 375.92 280.67 0)
 			(effects
 				(font
@@ -20757,7 +19891,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -20990,7 +20124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93b3c904-bcd6-4b09-9001-e7e04af148e9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0115"
 			(at 328.93 309.88 0)
 			(effects
 				(font
@@ -21005,6 +20139,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -21040,7 +20175,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -21156,71 +20291,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:7_BAR")
-		(at 450.85 309.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2bd2cf1-fa2c-462c-95a6-c7252cd37de4")
-		(property "Reference" "#PWR?"
-			(at 450.85 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "7"
-			(at 450.85 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 450.85 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 450.85 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 450.85 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "bfe0d64c-9665-4e26-9600-0f3b798db3cc")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
 		(at 48.26 264.16 0)
 		(unit 1)
@@ -21229,7 +20299,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4730c34-1818-4bef-b2b1-42b4b96cb9d0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0101"
 			(at 48.26 264.16 0)
 			(effects
 				(font
@@ -21280,7 +20350,73 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8d2bfd6-e0b5-4b1a-a009-9598b28f399c")
+		(property "Reference" "#FLG05"
+			(at 369.57 203.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45c8ba03-fb3e-48ff-801d-35ce2119d7d2")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
@@ -21314,7 +20450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 523.24 97.79 0)
 			(effects
 				(font
@@ -21323,7 +20459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd19531q5a"
 			(at 523.24 97.79 0)
 			(effects
 				(font
@@ -21417,71 +20553,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:26_BAR")
-		(at 508 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab3a6656-6576-4c67-a9ef-e87d35a608b0")
-		(property "Reference" "#PWR?"
-			(at 508 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "26"
-			(at 508 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 508 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 508 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 508 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "4d91a57e-c309-404a-89a9-bef7c4f58e0a")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Css")
 		(at 27.94 217.17 0)
 		(unit 1)
@@ -21509,7 +20580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 27.94 217.17 0)
 			(effects
 				(font
@@ -21518,7 +20589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf"
 			(at 27.94 217.17 0)
 			(effects
 				(font
@@ -21599,7 +20670,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0c74c30-29f8-46e7-add9-ccf4f8cd985f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0109"
 			(at 398.78 190.5 0)
 			(effects
 				(font
@@ -21650,7 +20721,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -21793,7 +20864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 523.24 44.45 0)
 			(effects
 				(font
@@ -21802,7 +20873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd18533q5a"
 			(at 523.24 44.45 0)
 			(effects
 				(font
@@ -21890,71 +20961,6 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "M3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:7_BAR")
-		(at 929.64 27.94 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b5f6e176-e910-4bfb-b719-6485b984a161")
-		(property "Reference" "#PWR?"
-			(at 929.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "7"
-			(at 929.64 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 929.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 929.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 929.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "c195bb6f-52cd-400c-a973-44c877a26ec7")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -22288,16 +21294,17 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:7_BAR")
-		(at 419.1 309.88 0)
+		(lib_id "power:PWR_FLAG")
+		(at 328.93 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c235c766-2dde-4d89-9097-1eb506818688")
-		(property "Reference" "#PWR?"
-			(at 419.1 309.88 0)
+		(fields_autoplaced yes)
+		(uuid "cc54dc6e-7c0b-4c5a-a242-b6fbfbdb0b37")
+		(property "Reference" "#FLG01"
+			(at 328.93 175.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22305,8 +21312,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "7"
-			(at 419.1 313.69 0)
+		(property "Value" "PWR_FLAG"
+			(at 328.93 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22314,7 +21321,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 419.1 309.88 0)
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22322,8 +21329,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 419.1 309.88 0)
+		(property "Datasheet" "~"
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22331,8 +21338,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 419.1 309.88 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 328.93 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22340,208 +21347,13 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "763bfec3-080d-480e-9240-4be4b2d10585")
+		(pin "1"
+			(uuid "4455ad08-3daa-476a-a4cd-324785b1e4a9")
 		)
 		(instances
-			(project "DCDCv2"
+			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:7_BAR")
-		(at 792.48 27.94 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c744fbfd-ccf4-4a21-b2cd-a8826d22ec86")
-		(property "Reference" "#PWR?"
-			(at 792.48 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "7"
-			(at 792.48 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 792.48 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 792.48 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 792.48 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "26344ce9-eb93-46bd-97de-3d3926a25520")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:9_BAR")
-		(at 379.73 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c7f67957-22e4-4842-bc97-f48eadb9a8be")
-		(property "Reference" "#PWR?"
-			(at 379.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "9"
-			(at 379.73 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 379.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 379.73 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "6be49f64-df4e-481e-bca5-04077888112f")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:31_BAR")
-		(at 379.73 43.18 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d0aefcda-efd8-4322-88ee-0b2b3b2996d4")
-		(property "Reference" "#PWR?"
-			(at 379.73 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "31"
-			(at 379.73 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 379.73 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 379.73 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "ced5c204-e832-4baf-b34a-9f1021574565")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -22657,71 +21469,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:19_BAR")
-		(at 591.82 71.12 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d486ff71-9c93-4131-8950-a9fff247697e")
-		(property "Reference" "#PWR?"
-			(at 591.82 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "19"
-			(at 591.82 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 591.82 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 591.82 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 591.82 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "f85a3184-d825-41b5-b29a-fdef53479a24")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
 		(at 471.17 144.78 0)
 		(unit 1)
@@ -22730,7 +21477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d784859e-1f71-46e6-a3e2-0adc2d940351")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0121"
 			(at 471.17 144.78 0)
 			(effects
 				(font
@@ -22781,7 +21528,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -22933,7 +21680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/35SVPF82M"
 			(at 957.58 68.58 0)
 			(effects
 				(font
@@ -23006,16 +21753,17 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:0_BAR")
-		(at 486.41 144.78 180)
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "dd52b3b2-7c4d-4905-8603-fdf6b140d517")
-		(property "Reference" "#PWR?"
-			(at 486.41 144.78 0)
+		(fields_autoplaced yes)
+		(uuid "dc638964-a434-4630-ad85-2cc39bb7033e")
+		(property "Reference" "#FLG06"
+			(at 369.57 231.775 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23023,8 +21771,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "0"
-			(at 486.41 138.43 0)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23032,7 +21780,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 486.41 144.78 0)
+			(at 369.57 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23040,8 +21788,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 486.41 144.78 0)
+		(property "Datasheet" "~"
+			(at 369.57 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23049,8 +21797,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 486.41 144.78 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23058,13 +21806,13 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "3bc79b49-9ffd-467c-a1cb-1ea5d76a5a66")
+		(pin "1"
+			(uuid "9af7771a-916e-4521-9be9-0f0d6dbdc9f3")
 		)
 		(instances
-			(project "DCDCv2"
+			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)
@@ -23079,7 +21827,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddf02689-11bf-4195-8bf0-b03e028264e3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0131"
 			(at 566.42 185.42 0)
 			(effects
 				(font
@@ -23130,7 +21878,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -23355,6 +22103,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e46c42b0-d261-4888-8d7c-d7abc27eb83b")
+		(property "Reference" "#FLG07"
+			(at 369.57 239.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afbf2636-c420-46bc-8a12-e28190297adb")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Ruvt")
 		(at 205.74 49.53 0)
 		(unit 1)
@@ -23491,7 +22305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 1012.19 68.58 0)
 			(effects
 				(font
@@ -23500,7 +22314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/35SVPF82M"
 			(at 1012.19 68.58 0)
 			(effects
 				(font
@@ -23791,6 +22605,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 266.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea47f6e8-a9cb-41b1-b55e-38aceeb22878")
+		(property "Reference" "#FLG03"
+			(at 369.57 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b9e49ee-de44-4a00-9c8b-53ae95913e2e")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cbulk")
 		(at 71.12 72.39 0)
 		(unit 1)
@@ -23900,6 +22780,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 369.57 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee8be8df-477d-4a40-ac53-a22c4af6a544")
+		(property "Reference" "#FLG08"
+			(at 369.57 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 369.57 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 369.57 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f4e23d8-0653-4e2a-a6e4-1cbb6b3e3094")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
 		(at 289.56 113.03 0)
 		(unit 1)
@@ -23908,7 +22854,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "efc34971-d5d1-4c89-9e9c-14a5d7de70e1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0114"
 			(at 289.56 113.03 0)
 			(effects
 				(font
@@ -23959,7 +22905,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -23993,7 +22939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 549.91 44.45 0)
 			(effects
 				(font
@@ -24002,7 +22948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd18533q5a"
 			(at 549.91 44.45 0)
 			(effects
 				(font
@@ -24096,201 +23042,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:13_BAR")
-		(at 486.41 123.19 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f5e1d176-6de1-492d-a36b-bbfe5d774594")
-		(property "Reference" "#PWR?"
-			(at 486.41 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "13"
-			(at 486.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 486.41 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 486.41 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 486.41 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "1b279a87-9793-4737-bbbc-5070be0a016d")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:9_BAR")
-		(at 492.76 210.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f74b1b8f-ef3a-4907-929f-60c55f282537")
-		(property "Reference" "#PWR?"
-			(at 492.76 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "9"
-			(at 492.76 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 492.76 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 492.76 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 492.76 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "c5a839cc-567c-4e6a-9d10-24abfab966fd")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:13_BAR")
-		(at 300.99 309.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f7ae18d5-343f-43dd-9298-f4a39d417fbe")
-		(property "Reference" "#PWR?"
-			(at 300.99 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "13"
-			(at 300.99 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 300.99 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 300.99 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 300.99 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "28d5e610-5c33-4538-93d9-fedf3afc0988")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cboot2")
 		(at 502.92 246.38 0)
 		(unit 1)
@@ -24318,7 +23069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 502.92 246.38 0)
 			(effects
 				(font
@@ -24327,7 +23078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGF.pdf"
 			(at 502.92 246.38 0)
 			(effects
 				(font
@@ -24427,7 +23178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CSD18531Q5A footprint:CSD18531Q5A"
 			(at 412.75 43.18 0)
 			(effects
 				(font
@@ -24436,7 +23187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd18513q5a"
 			(at 412.75 43.18 0)
 			(effects
 				(font
