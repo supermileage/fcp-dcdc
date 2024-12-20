@@ -1,4 +1,4 @@
-24416116150987276
+24419585490484968
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98605,6 +98605,20 @@ cap footprints
 35SVPF82M
 
 35SVPF82M 
+0
+2
+2
+cap footprints
+PCAP_6.3x7.7-ELECT_NCA
+
+UUD1V680MCL1GS 
+0
+2
+2
+cap footprints
+PCAP_SVP_E12_PAN
+
+50SVPF39M 
 0
 2
 2
