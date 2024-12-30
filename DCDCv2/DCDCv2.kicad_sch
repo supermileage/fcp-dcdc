@@ -5,6 +5,193 @@
 	(uuid "83b78cfd-fb8d-4c5f-85af-30e619b5f1da")
 	(paper "User" 1062.99 358.14)
 	(lib_symbols
+		(symbol "Connector:Screw_Terminal_01x02"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "DCDCv2-altium-import:0_BAR"
 			(power)
 			(exclude_from_sim no)
@@ -12085,466 +12272,6 @@
 				)
 			)
 		)
-		(symbol "DCDCv2-altium-import:root_3_Iout"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "WB_CURRENT_LOAD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_3_Iout_1_0"
-				(arc
-					(start -3.81 0.0098)
-					(mid -3.5189 -1.4607)
-					(end -2.6831 -2.705)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.7099 -2.6782)
-					(mid -1.4607 -3.5189)
-					(end 0.0166 -3.81)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.6963 2.6918)
-					(mid -3.5189 1.4607)
-					(end -3.81 0.0089)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.0275 3.8099)
-					(mid -1.4606 3.5189)
-					(end -2.6786 2.7095)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy 0 -3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -7.62) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.048) (xy 0 3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.81) (xy 0 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -0.762) (xy 0 -3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.0275 -3.8099)
-					(mid 1.4606 -3.5189)
-					(end 2.6786 -2.7095)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.6963 -2.6918)
-					(mid 3.5189 -1.4607)
-					(end 3.81 -0.0089)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.7099 2.6782)
-					(mid 1.4607 3.5189)
-					(end -0.0166 3.81)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 3.81 -0.0098)
-					(mid 3.5189 1.4607)
-					(end 2.6831 2.705)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:root_3_Vin"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "WB_BATTERY"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_3_Vin_1_0"
-				(polyline
-					(pts
-						(xy -3.048 -1.016) (xy 3.048 -1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.048 1.778) (xy 3.048 1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -2.286) (xy 1.27 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0.254) (xy 1.27 0.254)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0.508) (xy 1.27 0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -7.62) (xy 0 -2.794)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.032) (xy 0 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 3.556) (xy 3.81 3.556)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -3.302) (xy 3.81 -3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.048 2.794) (xy 3.048 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:PWR_FLAG"
 			(power)
 			(pin_numbers hide)
@@ -12709,6 +12436,12 @@
 		(uuid "2e12106c-8802-4a85-bcae-297699201adf")
 	)
 	(junction
+		(at 44.45 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39cc0b28-1ecc-4766-afbe-29a1e810cd1b")
+	)
+	(junction
 		(at 819.15 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12803,6 +12536,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66f33bf1-defe-4e78-af45-f65237df6816")
+	)
+	(junction
+		(at 44.45 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "670f9698-1651-428f-9e56-d487573d3e2c")
 	)
 	(junction
 		(at 582.93 27.94)
@@ -13238,6 +12977,16 @@
 	)
 	(wire
 		(pts
+			(xy 1037.59 27.94) (xy 1037.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072c7088-96bd-455a-b26c-5e7d80a3c63b")
+	)
+	(wire
+		(pts
 			(xy 205.74 68.58) (xy 205.74 83.82)
 		)
 		(stroke
@@ -13328,16 +13077,6 @@
 	)
 	(wire
 		(pts
-			(xy 1037.59 72.39) (xy 1037.59 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "146e1cee-8262-424b-afda-d38b166173d0")
-	)
-	(wire
-		(pts
 			(xy 398.78 67.31) (xy 435.61 67.31)
 		)
 		(stroke
@@ -13378,7 +13117,7 @@
 	)
 	(wire
 		(pts
-			(xy 1037.59 106.68) (xy 1037.59 87.63)
+			(xy 1037.59 80.01) (xy 1037.59 106.68)
 		)
 		(stroke
 			(width 0)
@@ -13415,6 +13154,16 @@
 			(type default)
 		)
 		(uuid "1ba6b87a-f2d3-4ef6-9387-96fef3e40cbc")
+	)
+	(wire
+		(pts
+			(xy 44.45 106.68) (xy 57.15 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c090242-5558-467c-92fb-61aca37de336")
 	)
 	(wire
 		(pts
@@ -13498,16 +13247,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 106.68) (xy 43.18 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26df7716-c292-458d-ab0b-7a8724637418")
-	)
-	(wire
-		(pts
 			(xy 71.12 106.68) (xy 57.15 106.68)
 		)
 		(stroke
@@ -13548,6 +13287,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 67.31) (xy 44.45 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d7b8456-5606-4849-b7f7-4401a912056a")
+	)
+	(wire
+		(pts
 			(xy 179.07 326.39) (xy 179.07 255.27)
 		)
 		(stroke
@@ -13575,16 +13324,6 @@
 			(type default)
 		)
 		(uuid "2f5f173d-1332-48d0-b16e-2ebe227b0bc0")
-	)
-	(wire
-		(pts
-			(xy 43.18 106.68) (xy 43.18 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ff93e1e-4c71-444c-8840-691ff403d090")
 	)
 	(wire
 		(pts
@@ -13988,6 +13727,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 106.68) (xy 44.45 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55a88cec-8ee6-4580-9852-31ad289705c0")
+	)
+	(wire
+		(pts
 			(xy 80.01 264.16) (xy 55.88 264.16)
 		)
 		(stroke
@@ -14188,6 +13937,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 69.85) (xy 44.45 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78565664-ffa5-434d-b775-d8e36eb6021e")
+	)
+	(wire
+		(pts
 			(xy 369.57 182.88) (xy 391.16 182.88)
 		)
 		(stroke
@@ -14225,6 +13984,16 @@
 			(type default)
 		)
 		(uuid "7dfb051b-3540-4eb9-b25f-89abececb706")
+	)
+	(wire
+		(pts
+			(xy 44.45 27.94) (xy 71.12 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ffd2412-22a5-44f5-9874-924242ac06da")
 	)
 	(wire
 		(pts
@@ -14635,16 +14404,6 @@
 			(type default)
 		)
 		(uuid "a5987fd8-de8d-4e1e-8d88-bf4cdd09ed69")
-	)
-	(wire
-		(pts
-			(xy 43.18 57.15) (xy 43.18 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6a8d2e0-33a3-4da2-911f-462505665adb")
 	)
 	(wire
 		(pts
@@ -15118,7 +14877,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 27.94) (xy 43.18 27.94)
+			(xy 43.18 27.94) (xy 44.45 27.94)
 		)
 		(stroke
 			(width 0)
@@ -15841,116 +15600,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:root_3_Vin")
-		(at 43.18 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "04605afb-9e62-41bc-aeec-fdc7b6268405")
-		(property "Reference" "Vin"
-			(at 46.99 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "WB_BATTERY"
-			(at 43.18 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WB_BATTERY"
-			(at 43.18 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "WB_BATTERY"
-			(at 46.99 61.976 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER PART NUMBER" "WB_BATTERY"
-			(at 0 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER NAME" "WB_BATTERY"
-			(at 0 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "N/A"
-			(at 46.99 64.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4ac1e48c-259e-4981-9d49-a0ae4be85857")
-		)
-		(pin "1"
-			(uuid "2c47d33d-1219-4917-869e-02d93f5eb79c")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Vin")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cout_3")
 		(at 994.41 68.58 0)
 		(unit 1)
@@ -16278,116 +15927,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:root_3_Iout")
-		(at 1037.59 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0d17612b-78e8-4f14-a97b-f3e9bae8ead9")
-		(property "Reference" "Iout"
-			(at 1041.654 74.676 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "WB_CURRENT_LOAD"
-			(at 1037.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 1037.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 1037.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WB_CURRENT_LOAD"
-			(at 1037.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "WB_CURRENT_LOAD"
-			(at 1041.654 76.962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER PART NUMBER" "WB_CURRENT_LOAD"
-			(at 0 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER NAME" "WB_CURRENT_LOAD"
-			(at 0 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" "N/A"
-			(at 1041.654 79.248 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d6c2971-e57d-4879-aaad-4c18ba09a599")
-		)
-		(pin "2"
-			(uuid "12245caf-c024-4715-a856-42cbc474fa6d")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Iout")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Dboot1")
 		(at 476.25 168.91 0)
 		(unit 1)
@@ -16524,7 +16063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 758.19 67.31 0)
 			(effects
 				(font
@@ -16533,7 +16072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 758.19 67.31 0)
 			(effects
 				(font
@@ -16633,7 +16172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 715.01 67.31 0)
 			(effects
 				(font
@@ -16642,7 +16181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 715.01 67.31 0)
 			(effects
 				(font
@@ -16981,7 +16520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 836.93 67.31 0)
 			(effects
 				(font
@@ -16990,7 +16529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 836.93 67.31 0)
 			(effects
 				(font
@@ -17090,7 +16629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 679.45 67.31 0)
 			(effects
 				(font
@@ -17099,7 +16638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 679.45 67.31 0)
 			(effects
 				(font
@@ -17308,7 +16847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 275.59 300.99 0)
 			(effects
 				(font
@@ -17317,7 +16856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL10C151JB8NNN"
 			(at 275.59 300.99 0)
 			(effects
 				(font
@@ -17417,7 +16956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 775.97 67.31 0)
 			(effects
 				(font
@@ -17426,7 +16965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 775.97 67.31 0)
 			(effects
 				(font
@@ -19832,6 +19371,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 49.53 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "800dae95-b5cb-4839-a289-9091b4ad5c77")
+		(property "Reference" "J1"
+			(at 52.07 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 52.07 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "screwterm footprint:CONN_1777545"
+			(at 49.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
+			(at 49.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 49.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "176c0880-5c84-443d-95b7-085adb99d645")
+		)
+		(pin "2"
+			(uuid "b469caea-ecb1-4b1a-9587-c3c33bc68a0a")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
 		(at 375.92 280.67 0)
 		(unit 1)
@@ -20209,7 +19818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 800.1 67.31 0)
 			(effects
 				(font
@@ -20218,7 +19827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 800.1 67.31 0)
 			(effects
 				(font
@@ -20285,6 +19894,76 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "Coutx3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 1042.67 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2196935-5d16-4ff3-92e1-8f2cddb03bf4")
+		(property "Reference" "J2"
+			(at 1045.21 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 1045.21 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "screwterm footprint:CONN_1777545"
+			(at 1042.67 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
+			(at 1042.67 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 1042.67 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84a6c2b5-792a-4e73-a810-8ec6be05ce8e")
+		)
+		(pin "2"
+			(uuid "19d177c6-e4ab-4989-8dc7-4264a2fe11a8")
+		)
+		(instances
+			(project "DCDCv2"
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -20755,7 +20434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 819.15 67.31 0)
 			(effects
 				(font
@@ -20764,7 +20443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 819.15 67.31 0)
 			(effects
 				(font
@@ -21103,7 +20782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 398.78 180.34 0)
 			(effects
 				(font
@@ -21112,7 +20791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
 			(at 398.78 180.34 0)
 			(effects
 				(font
@@ -21387,7 +21066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 55.88 250.19 0)
 			(effects
 				(font
@@ -21396,7 +21075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
 			(at 55.88 250.19 0)
 			(effects
 				(font
@@ -21671,7 +21350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 957.58 68.58 0)
 			(effects
 				(font
@@ -22523,7 +22202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 697.23 67.31 0)
 			(effects
 				(font
@@ -22532,7 +22211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 697.23 67.31 0)
 			(effects
 				(font
@@ -23308,7 +22987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 80.01 226.06 0)
 			(effects
 				(font
@@ -23317,7 +22996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL05C681JB5NNNC_Spec.pdf"
 			(at 80.01 226.06 0)
 			(effects
 				(font
