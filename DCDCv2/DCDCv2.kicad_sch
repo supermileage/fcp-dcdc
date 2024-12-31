@@ -192,282 +192,6 @@
 				)
 			)
 		)
-		(symbol "DCDCv2-altium-import:0_BAR"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "0"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '0'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "0_BAR_0_0"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -3.302) (xy 1.778 -3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -4.064) (xy 1.016 -4.064)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -4.826) (xy 0.254 -4.826)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "DCDCv2-altium-import:0_POWER_GROUND"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "0"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name '0'"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "0_POWER_GROUND_0_0"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -3.302) (xy 1.778 -3.302)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -4.064) (xy 1.016 -4.064)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -4.826) (xy 0.254 -4.826)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 0) hide
-					(name "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "DCDCv2-altium-import:root_0_L1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -12272,6 +11996,102 @@
 				)
 			)
 		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:PWR_FLAG"
 			(power)
 			(pin_numbers hide)
@@ -12412,12 +12232,6 @@
 		(uuid "216fb681-eb40-4905-bcab-a82bf542bc30")
 	)
 	(junction
-		(at 48.26 264.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22de6994-63f2-4b46-9b28-cf1bb23256d4")
-	)
-	(junction
 		(at 800.1 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12466,12 +12280,6 @@
 		(uuid "42cb3dd9-1843-4318-abe8-9a833f535b2b")
 	)
 	(junction
-		(at 1024.89 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4853b7ff-d5c0-4e95-afd0-f30b74910ef4")
-	)
-	(junction
 		(at 115.57 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12512,6 +12320,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6199d198-c22d-4dca-86c7-3cda99436bc0")
+	)
+	(junction
+		(at 180.34 326.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6265f8b5-960b-489c-a428-ee5fee16a149")
 	)
 	(junction
 		(at 300.99 269.24)
@@ -12652,6 +12466,12 @@
 		(uuid "9193cf1e-5737-4d18-9bfd-08c81ed46464")
 	)
 	(junction
+		(at 419.1 266.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94563609-7c1c-40db-8cf3-c1dc9a8b20e0")
+	)
+	(junction
 		(at 471.17 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12718,12 +12538,6 @@
 		(uuid "c176c4ec-1a2d-4bad-a6f1-f6b486ec97e2")
 	)
 	(junction
-		(at 179.07 326.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5c4018b-19d4-422e-b878-ca16d38ebc9e")
-	)
-	(junction
 		(at 97.79 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12758,12 +12572,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d007c4f6-5e5a-46ef-a8ab-6af8ac1ec544")
-	)
-	(junction
-		(at 726.44 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d2d8e75a-330a-4b2f-849f-b9c98ffe6216")
 	)
 	(junction
 		(at 800.1 59.69)
@@ -12856,12 +12664,6 @@
 		(uuid "e33c7775-50cc-404f-a57f-284641d3cb12")
 	)
 	(junction
-		(at 57.15 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4e0351e-4e07-4936-8798-5ad09af8f9c9")
-	)
-	(junction
 		(at 151.13 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12890,6 +12692,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8e4a438-301f-437e-9306-a81236390519")
+	)
+	(junction
+		(at 1037.59 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8f2cd35-2b11-4272-a0cf-8ded80f94bef")
 	)
 	(junction
 		(at 71.12 27.94)
@@ -12947,7 +12755,7 @@
 	)
 	(wire
 		(pts
-			(xy 726.44 105.41) (xy 740.41 105.41)
+			(xy 679.45 105.41) (xy 740.41 105.41)
 		)
 		(stroke
 			(width 0)
@@ -13097,7 +12905,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 264.16) (xy 48.26 264.16)
+			(xy 27.94 264.16) (xy 55.88 264.16)
 		)
 		(stroke
 			(width 0)
@@ -13157,7 +12965,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 106.68) (xy 57.15 106.68)
+			(xy 44.45 106.68) (xy 71.12 106.68)
 		)
 		(stroke
 			(width 0)
@@ -13174,16 +12982,6 @@
 			(type default)
 		)
 		(uuid "1dcd2779-2d5b-4fdd-9ec0-7dbf1c024f0d")
-	)
-	(wire
-		(pts
-			(xy 48.26 264.16) (xy 27.94 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1de3e4c5-ee79-4cd7-aff9-8c66432783a9")
 	)
 	(wire
 		(pts
@@ -13244,16 +13042,6 @@
 			(type default)
 		)
 		(uuid "24d83526-537f-42bd-8945-531c8c332b05")
-	)
-	(wire
-		(pts
-			(xy 71.12 106.68) (xy 57.15 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29e017c1-d4b7-4b16-a0ee-991571460bb0")
 	)
 	(wire
 		(pts
@@ -13527,7 +13315,7 @@
 	)
 	(wire
 		(pts
-			(xy 419.1 267.97) (xy 419.1 259.08)
+			(xy 419.1 267.97) (xy 419.1 266.7)
 		)
 		(stroke
 			(width 0)
@@ -13574,6 +13362,16 @@
 			(type default)
 		)
 		(uuid "48230f6c-f34c-45d4-bc99-fe302c68fb69")
+	)
+	(wire
+		(pts
+			(xy 419.1 266.7) (xy 419.1 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "483d6a98-732d-4444-b9e2-a509f779bf6b")
 	)
 	(wire
 		(pts
@@ -13967,16 +13765,6 @@
 	)
 	(wire
 		(pts
-			(xy 679.45 105.41) (xy 726.44 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c024c0c-28ec-4486-b780-2c4ec8d6b631")
-	)
-	(wire
-		(pts
 			(xy 398.78 74.93) (xy 398.78 90.17)
 		)
 		(stroke
@@ -14237,7 +14025,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 326.39) (xy 228.6 326.39)
+			(xy 179.07 326.39) (xy 180.34 326.39)
 		)
 		(stroke
 			(width 0)
@@ -14467,16 +14255,6 @@
 	)
 	(wire
 		(pts
-			(xy 1037.59 106.68) (xy 1024.89 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae2693d4-5008-4215-86e2-08ca13fd7ebd")
-	)
-	(wire
-		(pts
 			(xy 328.93 303.53) (xy 328.93 309.88)
 		)
 		(stroke
@@ -14677,7 +14455,7 @@
 	)
 	(wire
 		(pts
-			(xy 1024.89 106.68) (xy 957.58 106.68)
+			(xy 957.58 106.68) (xy 1037.59 106.68)
 		)
 		(stroke
 			(width 0)
@@ -14694,6 +14472,16 @@
 			(type default)
 		)
 		(uuid "c40c9113-49d6-485a-a814-8d03e1825290")
+	)
+	(wire
+		(pts
+			(xy 180.34 326.39) (xy 228.6 326.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c49f1799-7ed8-4a6e-9dde-fd04680f77bc")
 	)
 	(wire
 		(pts
@@ -15409,7 +15197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -15418,7 +15206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/50SVPF39M"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -15491,6 +15279,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 471.17 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00f8ab2a-534f-4989-bce5-91b0805f1ee5")
+		(property "Reference" "#PWR012"
+			(at 471.17 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 471.17 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 471.17 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 471.17 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 471.17 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9cde8f57-e688-40d7-9aad-e589bea17b8b")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cvcc")
 		(at 566.42 168.91 0)
 		(unit 1)
@@ -15499,7 +15353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0200357d-c033-4e62-8482-815cab0963a2")
-		(property "Reference" "Cvcc"
+		(property "Reference" "Cvcc1"
 			(at 569.468 164.592 0)
 			(effects
 				(font
@@ -15518,7 +15372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 566.42 168.91 0)
 			(effects
 				(font
@@ -15527,7 +15381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/378/EMK107B7105KA-T_SS.pdf"
 			(at 566.42 168.91 0)
 			(effects
 				(font
@@ -15593,7 +15447,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cvcc")
+					(reference "Cvcc1")
 					(unit 1)
 				)
 			)
@@ -15717,7 +15571,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0689e5ea-5db1-4a7c-9298-af9f27c7bda8")
-		(property "Reference" "Rfbb"
+		(property "Reference" "Rfbb1"
 			(at 654.304 83.566 0)
 			(effects
 				(font
@@ -15736,7 +15590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 652.78 86.36 0)
 			(effects
 				(font
@@ -15745,7 +15599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 652.78 86.36 0)
 			(effects
 				(font
@@ -15811,7 +15665,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rfbb")
+					(reference "Rfbb1")
 					(unit 1)
 				)
 			)
@@ -15826,7 +15680,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a22875a-2a13-486d-9044-af3065f4e624")
-		(property "Reference" "Rt"
+		(property "Reference" "Rt1"
 			(at 230.124 263.906 0)
 			(effects
 				(font
@@ -15845,7 +15699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 228.6 266.7 0)
 			(effects
 				(font
@@ -15854,7 +15708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 228.6 266.7 0)
 			(effects
 				(font
@@ -15920,7 +15774,73 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rt")
+					(reference "Rt1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 264.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dcb0d86-5057-4879-9cf2-c5b2982c45cc")
+		(property "Reference" "#PWR03"
+			(at 55.88 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cedfd632-b373-4264-afcc-5334ee92898d")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -15954,7 +15874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC_Handsoldering"
 			(at 476.25 168.91 0)
 			(effects
 				(font
@@ -15963,7 +15883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/88742/sl42.pdf"
 			(at 476.25 168.91 0)
 			(effects
 				(font
@@ -16392,7 +16312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17152293-3654-40ac-a164-0b3e7bd0032d")
-		(property "Reference" "Cin"
+		(property "Reference" "Cin1"
 			(at 101.092 67.818 0)
 			(effects
 				(font
@@ -16486,7 +16406,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cin")
+					(reference "Cin1")
 					(unit 1)
 				)
 			)
@@ -16610,7 +16530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23b09d08-0b75-4eb3-ac6a-9de0923fc687")
-		(property "Reference" "Coutx"
+		(property "Reference" "Coutx1"
 			(at 682.498 62.992 0)
 			(effects
 				(font
@@ -16704,7 +16624,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Coutx")
+					(reference "Coutx1")
 					(unit 1)
 				)
 			)
@@ -16738,7 +16658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "cap footprints:35SVPF82M"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -16747,7 +16667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/50SVPF39M"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -16828,7 +16748,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27f36a18-3a07-41ee-8e63-888af5f0a44a")
-		(property "Reference" "Cslope"
+		(property "Reference" "Cslope1"
 			(at 278.638 296.672 0)
 			(effects
 				(font
@@ -16922,7 +16842,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cslope")
+					(reference "Cslope1")
 					(unit 1)
 				)
 			)
@@ -17038,72 +16958,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 57.15 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2ced17f5-14e5-49d3-8929-fbdb69d219e2")
-		(property "Reference" "#PWR0113"
-			(at 57.15 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 57.15 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 57.15 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 57.15 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 57.15 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "67f5fa8d-69de-40f6-89db-9fe01ba5ac2a")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Rcsp")
 		(at 300.99 294.64 0)
 		(unit 1)
@@ -17112,7 +16966,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e09d916-2e70-4cb4-a1f3-64d077d7afe6")
-		(property "Reference" "Rcsp"
+		(property "Reference" "Rcsp1"
 			(at 302.514 291.846 0)
 			(effects
 				(font
@@ -17131,7 +16985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 300.99 294.64 0)
 			(effects
 				(font
@@ -17140,7 +16994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 300.99 294.64 0)
 			(effects
 				(font
@@ -17206,7 +17060,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rcsp")
+					(reference "Rcsp1")
 					(unit 1)
 				)
 			)
@@ -17349,7 +17203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC_Handsoldering"
 			(at 502.92 168.91 0)
 			(effects
 				(font
@@ -17358,7 +17212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/88742/sl42.pdf"
 			(at 502.92 168.91 0)
 			(effects
 				(font
@@ -17431,72 +17285,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 726.44 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "354c398c-f441-4dcf-9167-3147727008c3")
-		(property "Reference" "#PWR0118"
-			(at 726.44 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 726.44 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 726.44 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 726.44 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 726.44 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "d5c587ad-3d4d-49c8-97fe-b5b729662af9")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Rsense")
 		(at 471.17 130.81 0)
 		(unit 1)
@@ -17505,7 +17293,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "363a84c1-f82b-49f1-b244-fa4a2a3b8c4e")
-		(property "Reference" "Rsense"
+		(property "Reference" "Rsense1"
 			(at 472.694 128.016 0)
 			(effects
 				(font
@@ -17524,7 +17312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rsense footprint:RES_WSLP3921_.002OHM_VIS"
 			(at 471.17 130.81 0)
 			(effects
 				(font
@@ -17533,7 +17321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/30176/wslp3921-wslp5931.pdf"
 			(at 471.17 130.81 0)
 			(effects
 				(font
@@ -17581,7 +17369,7 @@
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "2.394m"
+		(property "ALTIUM_VALUE" "2.5m"
 			(at 472.694 132.588 0)
 			(effects
 				(font
@@ -17599,73 +17387,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rsense")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 179.07 326.39 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "36655692-91bd-484e-8cc1-d1c02f908957")
-		(property "Reference" "#PWR0117"
-			(at 179.07 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 179.07 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 179.07 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "879ae6dd-ceb7-425e-ae9c-50727c03f11d")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0117")
+					(reference "Rsense1")
 					(unit 1)
 				)
 			)
@@ -17699,7 +17421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LM5175:PWP0028F_N"
 			(at 349.25 223.52 0)
 			(effects
 				(font
@@ -17708,7 +17430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm5175.pdf?ts=1735560098547&ref_url=https%253A%252F%252Fwww.google.com%252F"
 			(at 349.25 223.52 0)
 			(effects
 				(font
@@ -17862,6 +17584,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 398.78 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a247067-cf75-46f6-ae9d-a4c65a29c000")
+		(property "Reference" "#PWR05"
+			(at 398.78 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 398.78 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 398.78 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 398.78 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 398.78 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3669ddd-5b05-4305-b077-d55f3ea29df3")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Rmode")
 		(at 179.07 247.65 0)
 		(unit 1)
@@ -17870,7 +17658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a34e93f-d7b9-433b-a1fa-559b7a6787f2")
-		(property "Reference" "Rmode"
+		(property "Reference" "Rmode1"
 			(at 180.594 244.856 0)
 			(effects
 				(font
@@ -17889,7 +17677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 179.07 247.65 0)
 			(effects
 				(font
@@ -17898,7 +17686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 179.07 247.65 0)
 			(effects
 				(font
@@ -17964,7 +17752,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rmode")
+					(reference "Rmode1")
 					(unit 1)
 				)
 			)
@@ -17998,7 +17786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT_Wurth:L_Wurth_WE-HCFT-3521"
 			(at 462.28 67.31 0)
 			(effects
 				(font
@@ -18007,7 +17795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7443763521022.pdf"
 			(at 462.28 67.31 0)
 			(effects
 				(font
@@ -18055,7 +17843,7 @@
 				(hide yes)
 			)
 		)
-		(property "ALTIUM_VALUE" "4.065uH"
+		(property "ALTIUM_VALUE" "2.2uH"
 			(at 462.28 72.39 0)
 			(effects
 				(font
@@ -18074,138 +17862,6 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 419.1 267.97 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3eed10dd-a5a7-4ccb-9846-cd83318b0bd1")
-		(property "Reference" "#PWR0111"
-			(at 419.1 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 419.1 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 419.1 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 419.1 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 419.1 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "a3a1eff0-2f58-4e37-87f1-6190b21a35be")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 1024.89 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45ffe5e3-95f0-45b4-bb1d-f2b23781b5f6")
-		(property "Reference" "#PWR0125"
-			(at 1024.89 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 1024.89 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 1024.89 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 1024.89 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 1024.89 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "2a4a9b8c-a925-43df-a396-aeb2f167f81a")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -18339,6 +17995,72 @@
 			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 71.12 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "552123df-6f3f-4c25-9a84-1eb070238003")
+		(property "Reference" "#PWR04"
+			(at 71.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 71.12 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "385ae6b1-a73b-4ba7-89ad-ebee3a3dfec7")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -18563,6 +18285,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 180.34 326.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ece5414-8afd-4c39-828f-bb7973d4c9ef")
+		(property "Reference" "#PWR02"
+			(at 180.34 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.34 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 180.34 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0f9c0b5-f709-4dfa-9a66-6a464a14ad01")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_0_M4_2")
 		(at 560.07 97.79 0)
 		(unit 1)
@@ -18701,7 +18489,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "686faac2-33d0-4b18-aa5a-691e34e70bdc")
-		(property "Reference" "Rfbt"
+		(property "Reference" "Rfbt1"
 			(at 654.304 48.006 0)
 			(effects
 				(font
@@ -18795,7 +18583,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rfbt")
+					(reference "Rfbt1")
 					(unit 1)
 				)
 			)
@@ -18829,7 +18617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC_Handsoldering"
 			(at 435.61 93.98 0)
 			(effects
 				(font
@@ -18838,7 +18626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/88742/sl42.pdf"
 			(at 435.61 93.98 0)
 			(effects
 				(font
@@ -18905,6 +18693,72 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 1037.59 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ea9e8bc-ddfe-4574-8729-9bc26e5fcf79")
+		(property "Reference" "#PWR08"
+			(at 1037.59 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 1037.59 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 1037.59 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 1037.59 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 1037.59 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9653b9a2-fd63-44b2-80f7-8684040b4c5d")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -19047,7 +18901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
 			(at 582.93 44.45 0)
 			(effects
 				(font
@@ -19056,7 +18910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/SBRD10200%20N1314%20REV.A.pdf"
 			(at 582.93 44.45 0)
 			(effects
 				(font
@@ -19140,7 +18994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c0e355d-cc37-48a0-9374-83cd80589df1")
-		(property "Reference" "Rpg"
+		(property "Reference" "Rpg1"
 			(at 595.884 186.436 0)
 			(effects
 				(font
@@ -19159,7 +19013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 594.36 189.23 0)
 			(effects
 				(font
@@ -19168,7 +19022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 594.36 189.23 0)
 			(effects
 				(font
@@ -19234,7 +19088,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rpg")
+					(reference "Rpg1")
 					(unit 1)
 				)
 			)
@@ -19380,7 +19234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "800dae95-b5cb-4839-a289-9091b4ad5c77")
-		(property "Reference" "J1"
+		(property "Reference" "Vin1"
 			(at 52.07 67.3099 0)
 			(effects
 				(font
@@ -19434,73 +19288,7 @@
 		(instances
 			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 375.92 280.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "804fc627-89bb-4bf2-a5d1-3fd718142851")
-		(property "Reference" "#PWR0105"
-			(at 375.92 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 375.92 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 375.92 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 375.92 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 375.92 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "79c51dc2-3384-4643-b527-2c41469b757f")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0105")
+					(reference "Vin1")
 					(unit 1)
 				)
 			)
@@ -19515,7 +19303,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80a1857f-9ab8-46be-91a0-078071a083b0")
-		(property "Reference" "Cf"
+		(property "Reference" "Cf1"
 			(at 292.608 96.012 0)
 			(effects
 				(font
@@ -19609,7 +19397,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cf")
+					(reference "Cf1")
 					(unit 1)
 				)
 			)
@@ -19624,7 +19412,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d8f2c7e-b527-43d3-9b05-56679c526e92")
-		(property "Reference" "Ruvb"
+		(property "Reference" "Ruvb1"
 			(at 207.264 88.646 0)
 			(effects
 				(font
@@ -19643,7 +19431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 205.74 91.44 0)
 			(effects
 				(font
@@ -19652,7 +19440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 205.74 91.44 0)
 			(effects
 				(font
@@ -19718,23 +19506,24 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Ruvb")
+					(reference "Ruvb1")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:0_BAR")
-		(at 328.93 309.88 0)
+		(lib_id "power:GND")
+		(at 289.56 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "93b3c904-bcd6-4b09-9001-e7e04af148e9")
-		(property "Reference" "#PWR0115"
-			(at 328.93 309.88 0)
+		(fields_autoplaced yes)
+		(uuid "92bb74a3-ca63-4f04-9c70-37aced02cc95")
+		(property "Reference" "#PWR011"
+			(at 289.56 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19742,17 +19531,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "0"
-			(at 328.93 316.23 0)
+		(property "Value" "GND"
+			(at 289.56 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 328.93 309.88 0)
+			(at 289.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19761,7 +19549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 328.93 309.88 0)
+			(at 289.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19769,8 +19557,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 328.93 309.88 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 289.56 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19778,13 +19566,145 @@
 				(hide yes)
 			)
 		)
-		(pin ""
-			(uuid "4c881c88-4a46-46e0-9223-6b64a3db6aae")
+		(pin "1"
+			(uuid "c10ff149-63ff-4089-ad1d-31c5e857e5d3")
 		)
 		(instances
-			(project "DCDCv2"
+			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0115")
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 740.41 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "970eeb93-e0ee-4911-93a6-46b5286b724b")
+		(property "Reference" "#PWR07"
+			(at 740.41 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 740.41 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 740.41 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 740.41 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 740.41 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03732c25-e376-4827-b86f-70183f2a5f56")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 566.42 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b1464ac-a795-42a5-83bf-f53163b30b8e")
+		(property "Reference" "#PWR06"
+			(at 566.42 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 566.42 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 566.42 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 566.42 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 566.42 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd06df07-6bfe-42e5-b4ce-e29d00f77370")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -19909,7 +19829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2196935-5d16-4ff3-92e1-8f2cddb03bf4")
-		(property "Reference" "J2"
+		(property "Reference" "Vout1"
 			(at 1045.21 77.4699 0)
 			(effects
 				(font
@@ -19963,73 +19883,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 48.26 264.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a4730c34-1818-4bef-b2b1-42b4b96cb9d0")
-		(property "Reference" "#PWR0101"
-			(at 48.26 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 48.26 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "a692814d-ca3c-41da-becf-21230cf87888")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0101")
+					(reference "Vout1")
 					(unit 1)
 				)
 			)
@@ -20240,7 +20094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b05a1887-5d87-4b97-a785-20b8fada897d")
-		(property "Reference" "Css"
+		(property "Reference" "Css1"
 			(at 30.988 212.852 0)
 			(effects
 				(font
@@ -20334,73 +20188,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Css")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 398.78 190.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b0c74c30-29f8-46e7-add9-ccf4f8cd985f")
-		(property "Reference" "#PWR0109"
-			(at 398.78 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 398.78 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 398.78 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 398.78 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 398.78 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "abf315af-1848-4424-a5b0-b61d1084e7c6")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0109")
+					(reference "Css1")
 					(unit 1)
 				)
 			)
@@ -20654,7 +20442,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9a440f6-bd98-477b-a058-7d671458dba1")
-		(property "Reference" "Df"
+		(property "Reference" "Df1"
 			(at 292.1 43.18 0)
 			(effects
 				(font
@@ -20673,7 +20461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMC_Handsoldering"
 			(at 289.56 46.99 0)
 			(effects
 				(font
@@ -20748,7 +20536,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Df")
+					(reference "Df1")
 					(unit 1)
 				)
 			)
@@ -20763,7 +20551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd8905d6-3262-48f6-babd-4153d6f47a2b")
-		(property "Reference" "Cbias"
+		(property "Reference" "Cbias1"
 			(at 401.828 176.022 0)
 			(effects
 				(font
@@ -20857,7 +20645,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cbias")
+					(reference "Cbias1")
 					(unit 1)
 				)
 			)
@@ -20872,7 +20660,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bea2a611-6813-4c05-8286-308497453d5c")
-		(property "Reference" "Rcsg"
+		(property "Reference" "Rcsg1"
 			(at 330.454 293.116 0)
 			(effects
 				(font
@@ -20891,7 +20679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 328.93 295.91 0)
 			(effects
 				(font
@@ -20900,7 +20688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 328.93 295.91 0)
 			(effects
 				(font
@@ -20966,7 +20754,73 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rcsg")
+					(reference "Rcsg1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 375.92 280.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "caacb5a8-9466-4af1-a6e6-519fe82e0959")
+		(property "Reference" "#PWR09"
+			(at 375.92 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 375.92 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 375.92 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 375.92 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 375.92 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5eab3801-d3fe-484e-bbb9-432b28fcaa1b")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -21047,7 +20901,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3184735-dcd5-4334-947a-38a9a880bf0d")
-		(property "Reference" "Ccomp"
+		(property "Reference" "Ccomp1"
 			(at 58.928 245.872 0)
 			(effects
 				(font
@@ -21141,73 +20995,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Ccomp")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 471.17 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d784859e-1f71-46e6-a3e2-0adc2d940351")
-		(property "Reference" "#PWR0121"
-			(at 471.17 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 471.17 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 471.17 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 471.17 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 471.17 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "81763da8-f9b2-46ff-80c0-03a48cfdb85c")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0121")
+					(reference "Ccomp1")
 					(unit 1)
 				)
 			)
@@ -21331,7 +21119,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d85a6a19-45cf-4647-b4be-ee64b72c2916")
-		(property "Reference" "Cout"
+		(property "Reference" "Cout1"
 			(at 960.882 64.008 0)
 			(effects
 				(font
@@ -21425,7 +21213,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cout")
+					(reference "Cout1")
 					(unit 1)
 				)
 			)
@@ -21498,72 +21286,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 566.42 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ddf02689-11bf-4195-8bf0-b03e028264e3")
-		(property "Reference" "#PWR0131"
-			(at 566.42 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 566.42 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 566.42 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 566.42 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 566.42 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "a348556e-e851-4e5d-a5b1-2b6ea6f7f8ef")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DCDCv2-altium-import:root_2_Ccs")
 		(at 314.96 269.24 0)
 		(unit 1)
@@ -21572,7 +21294,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df8ec13c-993f-4a3d-81b6-7b15bcbb8e91")
-		(property "Reference" "Ccs"
+		(property "Reference" "Ccs1"
 			(at 314.96 263.144 0)
 			(effects
 				(font
@@ -21591,7 +21313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 314.96 269.24 0)
 			(effects
 				(font
@@ -21600,7 +21322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/C0GNP0-KGM.pdf"
 			(at 314.96 269.24 0)
 			(effects
 				(font
@@ -21666,7 +21388,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Ccs")
+					(reference "Ccs1")
 					(unit 1)
 				)
 			)
@@ -21681,7 +21403,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1166f2b-283d-4e30-9837-4a9dc75b5a22")
-		(property "Reference" "Rcomp"
+		(property "Reference" "Rcomp1"
 			(at 57.404 224.536 0)
 			(effects
 				(font
@@ -21700,7 +21422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.88 227.33 0)
 			(effects
 				(font
@@ -21709,7 +21431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 55.88 227.33 0)
 			(effects
 				(font
@@ -21775,7 +21497,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rcomp")
+					(reference "Rcomp1")
 					(unit 1)
 				)
 			)
@@ -21856,7 +21578,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6710dea-725e-47b0-a211-63213956ae96")
-		(property "Reference" "Ruvt"
+		(property "Reference" "Ruvt1"
 			(at 207.264 46.736 0)
 			(effects
 				(font
@@ -21875,7 +21597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 205.74 49.53 0)
 			(effects
 				(font
@@ -21884,7 +21606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_10.pdf"
 			(at 205.74 49.53 0)
 			(effects
 				(font
@@ -21950,7 +21672,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Ruvt")
+					(reference "Ruvt1")
 					(unit 1)
 				)
 			)
@@ -22074,7 +21796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e811be44-de8e-4357-b6f0-07ce6e6326e1")
-		(property "Reference" "Rf"
+		(property "Reference" "Rf1"
 			(at 291.084 67.056 0)
 			(effects
 				(font
@@ -22168,7 +21890,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Rf")
+					(reference "Rf1")
 					(unit 1)
 				)
 			)
@@ -22358,7 +22080,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecbc455c-e359-4cad-95fe-37a09ff48007")
-		(property "Reference" "Cbulk"
+		(property "Reference" "Cbulk1"
 			(at 74.422 67.818 0)
 			(effects
 				(font
@@ -22452,7 +22174,7 @@
 		(instances
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "Cbulk")
+					(reference "Cbulk1")
 					(unit 1)
 				)
 			)
@@ -22519,72 +22241,6 @@
 			(project ""
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "#FLG08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DCDCv2-altium-import:0_POWER_GROUND")
-		(at 289.56 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "efc34971-d5d1-4c89-9e9c-14a5d7de70e1")
-		(property "Reference" "#PWR0114"
-			(at 289.56 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "0"
-			(at 289.56 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 289.56 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin ""
-			(uuid "48880bf7-7bb0-406a-a180-f65494116f52")
-		)
-		(instances
-			(project "DCDCv2"
-				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
-					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -22954,6 +22610,72 @@
 			(project "DCDCv2"
 				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
 					(reference "M1_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 419.1 266.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff23377b-1053-4bee-8cc2-9de2acc58e4f")
+		(property "Reference" "#PWR010"
+			(at 419.1 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 419.1 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 419.1 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 419.1 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 419.1 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d0d9cef-570c-428f-a44f-086f08476813")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)

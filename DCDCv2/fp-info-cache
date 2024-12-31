@@ -1,4 +1,4 @@
-24090254258405564
+24098928378971492
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2575,6 +2575,13 @@ speaker CUI
 0
 2
 2
+CSD18531Q5A footprint
+8power tdfn
+
+CSD19531Q5A 
+0
+8
+8
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -65414,6 +65421,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LM5175
+PWP0028F_N
+
+LM5175PWPR 
+0
+44
+30
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -90453,6 +90467,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+Rsense footprint
+RES_WSLP3921_.002OHM_VIS
+
+WSLP39212L500FEA 
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -98384,6 +98405,20 @@ Varistor VF
 0
 2
 2
+cap footprints
+35SVPF82M
+
+35SVPF82M 
+0
+2
+2
+inductor footprint
+WE-HCFT_3521
+THT High Current Inductor, body 36x21.5mm
+
+0
+4
+4
 screwterm footprint
 CONN_1777545
 

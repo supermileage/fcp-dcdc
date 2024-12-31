@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "screwterm footprint")(type "KiCad")(uri "${KIPRJMOD}/screwterm footprint.pretty")(options "")(descr ""))
+  (lib (name "cap footprints")(type "KiCad")(uri "${KIPRJMOD}/cap footprints.pretty")(options "")(descr ""))
+  (lib (name "CSD18531Q5A footprint")(type "KiCad")(uri "${KIPRJMOD}/CSD18531Q5A footprint.pretty")(options "")(descr ""))
+  (lib (name "inductor footprint")(type "KiCad")(uri "${KIPRJMOD}/inductor footprint.pretty")(options "")(descr ""))
+  (lib (name "Rsense footprint")(type "KiCad")(uri "${KIPRJMOD}/Rsense footprint.pretty")(options "")(descr ""))
+  (lib (name "LM5175")(type "KiCad")(uri "${KIPRJMOD}/LM5175.pretty")(options "")(descr ""))
+)
