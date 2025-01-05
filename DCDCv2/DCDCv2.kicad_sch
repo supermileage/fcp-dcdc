@@ -11996,6 +11996,126 @@
 				)
 			)
 		)
+		(symbol "power:+1V0"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+1V0"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+1V0\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+1V0_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+1V0_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -12464,6 +12584,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9193cf1e-5737-4d18-9bfd-08c81ed46464")
+	)
+	(junction
+		(at 1037.59 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91df1dbe-bb98-4d75-9bba-fb78706ed0b5")
 	)
 	(junction
 		(at 419.1 266.7)
@@ -13072,16 +13198,6 @@
 			(type default)
 		)
 		(uuid "2d7225df-4a91-4b8c-aaf7-32047365cb95")
-	)
-	(wire
-		(pts
-			(xy 44.45 67.31) (xy 44.45 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d7b8456-5606-4849-b7f7-4401a912056a")
 	)
 	(wire
 		(pts
@@ -13992,6 +14108,16 @@
 			(type default)
 		)
 		(uuid "8e8bf030-ad06-4993-922f-95e3150f05a3")
+	)
+	(wire
+		(pts
+			(xy 44.45 27.94) (xy 44.45 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f511ae6-a2e2-49b0-a1a0-5b304eb55fdc")
 	)
 	(wire
 		(pts
@@ -15197,13 +15323,12 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cap footprints:35SVPF82M"
+		(property "Footprint" "cap footprints:PCAP_SVP_E12_PAN"
 			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/ww/products/pt/os-con/models/50SVPF39M"
@@ -16658,7 +16783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cap footprints:35SVPF82M"
+		(property "Footprint" "cap footprints:PCAP_SVP_E12_PAN"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -17869,6 +17994,138 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
+		(at 71.12 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "415fc433-d394-472a-b37f-9f033ff74f7e")
+		(property "Reference" "#FLG09"
+			(at 71.12 26.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 71.12 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 71.12 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0f6b2be-8d80-4e92-bc9f-83204e6e6985")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#FLG09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V0")
+		(at 44.45 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44fbec95-3d1c-4e0c-b975-9c7a59596491")
+		(property "Reference" "#PWR01"
+			(at 44.45 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Vin"
+			(at 44.45 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 44.45 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5046626a-0c11-4ea7-aabc-63d077bf08b6")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
 		(at 369.57 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18203,7 +18460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 740.41 67.31 0)
 			(effects
 				(font
@@ -18212,7 +18469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf"
 			(at 740.41 67.31 0)
 			(effects
 				(font
@@ -18508,7 +18765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 652.78 50.8 0)
 			(effects
 				(font
@@ -18517,7 +18774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 652.78 50.8 0)
 			(effects
 				(font
@@ -19122,7 +19379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CSD18531Q5A footprint:CSD18531Q5A"
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 394.97 97.79 0)
 			(effects
 				(font
@@ -21111,6 +21368,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V0")
+		(at 1037.59 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7fb2134-7f95-4dc1-8c1d-0235b8ee4510")
+		(property "Reference" "#PWR013"
+			(at 1037.59 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Vout"
+			(at 1037.59 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 1037.59 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 1037.59 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 1037.59 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f2f45f8-0d28-4e39-a17b-e43abe5a18f0")
+		)
+		(instances
+			(project ""
+				(path "/83b78cfd-fb8d-4c5f-85af-30e619b5f1da"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDCv2-altium-import:root_1_Cout")
 		(at 957.58 68.58 0)
 		(unit 1)
@@ -22099,7 +22422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cap footprints:PCAP_6.3x7.7-ELECT_NCA"
+		(property "Footprint" "cap footprints:CAPAE660X800N"
 			(at 71.12 72.39 0)
 			(effects
 				(font
@@ -22513,7 +22836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CSD18531Q5A footprint:CSD18531Q5A"
+		(property "Footprint" "CSD18531Q5A footprint:8power tdfn"
 			(at 412.75 43.18 0)
 			(effects
 				(font

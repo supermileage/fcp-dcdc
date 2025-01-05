@@ -6,4 +6,5 @@
   (lib (name "inductor footprint")(type "KiCad")(uri "${KIPRJMOD}/inductor footprint.pretty")(options "")(descr ""))
   (lib (name "Rsense footprint")(type "KiCad")(uri "${KIPRJMOD}/Rsense footprint.pretty")(options "")(descr ""))
   (lib (name "LM5175")(type "KiCad")(uri "${KIPRJMOD}/LM5175.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/logo.pretty")(options "")(descr ""))
 )

@@ -269,32 +269,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "f9f6f9f5-b088-452f-b9fb-dcc839d284a0")
 	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "F.Cu")
-		(uuid "bede345e-84b6-401f-a34e-9680022309cf")
-		(hatch full 0.508)
-		(connect_pads
-			(clearance 0)
+	(model "${KIPRJMOD}/WSLP3921 (0.002).step"
+		(offset
+			(xyz 0 -2.5 0)
 		)
-		(min_thickness 0.254)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
+		(scale
+			(xyz 1 1 1)
 		)
-		(fill
-			(thermal_gap 0.508)
-			(thermal_bridge_width 0.508)
-		)
-		(polygon
-			(pts
-				(xy -2.794 -2.7432) (xy 2.794 -2.7432) (xy 2.794 2.7432) (xy -2.794 2.7432)
-			)
+		(rotate
+			(xyz 0 0 0)
 		)
 	)
 )
