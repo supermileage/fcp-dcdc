@@ -209,6 +209,18 @@
 		(uuid "fbd1abf2-7403-40c5-9466-19280da1c379")
 	)
 	(model "UUD1V680MCL1GS.stp"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/cap footprints.pretty/PCAP_6_3x7_7-ELECT_NCA.step"
 		(offset
 			(xyz 0 0 0)
 		)

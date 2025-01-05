@@ -369,4 +369,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "f249adee-eb06-4ede-a223-e0a15f0a7108")
 	)
+	(model "${KIPRJMOD}/cap footprints.pretty/8 SIZE CODE E12.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )
