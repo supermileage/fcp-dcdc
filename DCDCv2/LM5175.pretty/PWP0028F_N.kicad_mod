@@ -3840,4 +3840,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "34e29e47-e67b-4ea2-8fff-a1888d007c1b")
 	)
+	(model "${KIPRJMOD}/LM5175.pretty/PWP0028C.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
